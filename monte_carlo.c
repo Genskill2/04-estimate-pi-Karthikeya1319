@@ -38,8 +38,7 @@ int main(void) {
     }
   }
 }
-{
-  float mc_pi(int n ){
+float mc_pi(int n ){
    int incircle = 0;
    
   for ( int i=0; i<n ;i++ ){
