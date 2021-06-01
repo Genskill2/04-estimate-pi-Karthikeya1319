@@ -30,4 +30,4 @@ float wallis_pi(int count){
         pi *= num / (num - 1);
     }
     return pi * 2;
-}
+ }
